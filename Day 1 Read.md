@@ -115,10 +115,6 @@ Let’s synthesize the `good_mux` design using Yosys!
     show
     ```
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/798b0f47-d38c-40d9-a124-52a0bb7b97ae" alt="GTKWave Example" width="70%">
-</div>
-
 ---
 # Logic Synthesis 
 ## RTL design
